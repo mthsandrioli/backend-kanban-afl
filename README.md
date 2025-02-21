@@ -6,14 +6,6 @@
 
 ## Instruções para rodar o projeto
 
-**Instalar dependências:**
-
-```bash
-npm i
-```
-
-**Rodar projeto:**
-
 ```bash
 python3 -m venv venv  
 

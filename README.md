@@ -11,7 +11,7 @@ python3 -m venv venv
 
 source venv/bin/activate
 
-cd server/newproject
+cd newproject
 
 pip install django djangorestframework django-cors-headers
 
